@@ -1,4 +1,4 @@
-# vx-dga-x-escuela40-microbit
+# vx-dga-x-microbit
 
 Paquete Debian para Vitalinux que proporciona un acceso directo a MakeCode Micro:bit.
 
@@ -13,13 +13,13 @@ Este paquete instala un lanzador que permite acceder fácilmente a la plataforma
 
 ## Información del Paquete
 
-- **Nombre**: vx-dga-x-escuela40-microbit
+- **Nombre**: vx-dga-x-microbit
 - **Versión**: 1.0-1
 - **Arquitectura**: all
-- **Mantenedor**: Vitalinux Admin <admin@vitalinux.org>
+- **Mantenedor**: Gabriel Navia <correos@gabrielnav.es>
 - **Licencia**: GPL-3.0+
 
 ## Archivos incluidos
 
-- `usr/share/applications/vx-escuela40-microbit.desktop` - Archivo de lanzador
+- `usr/share/applications/vx-microbit.desktop` - Archivo de lanzador
 - `usr/share/icons/hicolor/scalable/apps/microbit.svg` - Icono de la aplicación

@@ -1,11 +1,11 @@
-Source: vx-dga-x-escuela40-microbit
+Source: vx-dga-x-microbit
 Section: education
 Priority: optional
 Maintainer: Gabriel Navia <correos@gabrielnav.es>
 Standards-Version: 4.6.0
 Build-Depends: debhelper-compat (= 13)
 
-Package: vx-dga-x-escuela40-microbit
+Package: vx-dga-x-microbit
 Architecture: all
 Depends: chromium-browser | google-chrome-stable | firefox-esr | firefox, desktop-file-utils
 Description: Lanzador de MakeCode Micro:bit para Vitalinux
