@@ -7,7 +7,7 @@ Build-Depends: debhelper-compat (= 13)
 
 Package: vx-dga-x-microbit
 Architecture: all
-Depends: chromium-browser | google-chrome-stable | firefox-esr | firefox, desktop-file-utils
+Depends: chromium-browser | google-chrome-stable | firefox-esr | firefox
 Description: Lanzador de MakeCode Micro:bit para Vitalinux
  Este paquete proporciona un acceso directo a la plataforma MakeCode Micro:bit
  de Microsoft, permitiendo a los estudiantes acceder a un entorno integrado
