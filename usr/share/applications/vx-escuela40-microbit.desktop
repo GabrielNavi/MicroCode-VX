@@ -2,7 +2,7 @@
 Name=MakeCode Micro:bit
 Exec=chromium-browser --app=https://makecode.microbit.org/
 Icon=microbit
-Categories=Escuela40;
+Categories=Education;Escuela40;
 Type=Application
+Terminal=false
 Comment=Acceso directo a MakeCode Micro:bit
-Encoding=UTF-8
