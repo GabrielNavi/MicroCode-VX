@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MakeCode Micro:bit
+Exec=chromium-browser --app=https://makecode.microbit.org/
+Icon=microbit
+Categories=Escuela40;
+Type=Application
+Comment=Acceso directo a MakeCode Micro:bit
+Encoding=UTF-8
