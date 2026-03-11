@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=MakeCode Micro:bit
-Exec=chromium-browser --app=https://makecode.microbit.org/
+Exec=x-www-browser https://makecode.microbit.org/
 Icon=microbit
 Categories=Education;Development;Escuela40;
 Type=Application
