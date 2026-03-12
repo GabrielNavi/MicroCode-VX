@@ -14,7 +14,8 @@ build-vitalinux18:
   script:
     - useradd -m $_USER
     - mkdir -p $_PATH
-    - mv * $_PATH
+    - cp -a * $_PATH
+    - chmod +x $_PATH/debian/rules
     - pushd $_PATH
     - su -c "/usr/bin/debuild --no-tgz-check -us -uc" $_USER
     - popd
@@ -52,7 +53,8 @@ build-vitalinux3x:
   script:
     - useradd -m $_USER
     - mkdir -p $_PATH
-    - mv * $_PATH
+    - cp -a * $_PATH
+    - chmod +x $_PATH/debian/rules
     - pushd $_PATH
     - su -c "/usr/bin/debuild --no-tgz-check -us -uc" $_USER
     - popd 
