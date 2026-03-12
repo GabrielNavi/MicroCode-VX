@@ -5,11 +5,10 @@ Maintainer: Gabriel Navia <correos@gabrielnav.es>
 Standards-Version: 4.6.0
 Build-Depends: debhelper-compat (= 13)
 
-Suggests: chromium-browser
-
 Package: vx-dga-l-microbit
 Architecture: all
 Depends: chromium-browser | google-chrome-stable | firefox-esr | firefox
+Suggests: chromium-browser
 Description: Lanzador de MakeCode Micro:bit para Vitalinux
  Este paquete proporciona un acceso directo a la plataforma MakeCode Micro:bit
  de Microsoft, permitiendo a los estudiantes acceder a un entorno integrado
