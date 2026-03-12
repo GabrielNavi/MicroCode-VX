@@ -13,7 +13,7 @@ build-vitalinux3x:
     - useradd -m $_USER
     - mkdir -p $_PATH
     - cp -a * $_PATH
-    - chmod -x $_PATH/debian/rules
+    - chmod +x $_PATH/debian/rules
     - pushd $_PATH
     - su -c "/usr/bin/debuild --no-tgz-check -us -uc" $_USER
     - popd
