@@ -1,4 +1,4 @@
-# vx-dga-x-microbit
+# vx-dga-l-microbit
 
 Paquete Debian para Vitalinux que proporciona un acceso directo a MakeCode Micro:bit.
 
@@ -8,12 +8,12 @@ Este paquete instala un lanzador que permite acceder fácilmente a la plataforma
 
 ## Requisitos
 
-- Chromium o Chromium-browser instalado
+- Navegador de Internet instalado, recomendable chromium.
 - Conexión a Internet para acceder a la plataforma
 
 ## Información del Paquete
 
-- **Nombre**: vx-dga-x-microbit
+- **Nombre**: vx-dga-l-microbit
 - **Versión**: 1.0-1
 - **Arquitectura**: all
 - **Mantenedor**: Gabriel Navia <correos@gabrielnav.es>
