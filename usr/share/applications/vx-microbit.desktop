@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=MakeCode Micro:bit
-Exec=x-www-browser https://makecode.microbit.org/
+Exec=/usr/bin/vx-microbit
 Icon=microbit
-Categories=Education;Development;Escuela40;
+Categories=Education;Development;
 Type=Application
 Terminal=false
 Comment=Acceso directo a MakeCode Micro:bit
